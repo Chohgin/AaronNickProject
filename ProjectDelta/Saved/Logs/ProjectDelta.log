@@ -1,0 +1,993 @@
+﻿Log file open, 08/15/19 10:31:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjectDelta
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.426572
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Config/Windows/Engine.ini]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Config/Windows/Engine.ini]
+[2019.08.15-14.31.12:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Config/Windows/Engine.ini]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Config/Windows/Engine.ini]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.15-14.31.12:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Config/Windows/Engine.ini]
+[2019.08.15-14.31.12:629][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Config/Windows/Engine.ini]
+[2019.08.15-14.31.12:632][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Config/Windows/Scalability.ini]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Config/Windows/Scalability.ini]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Config/Windows/Scalability.ini]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Config/Windows/Scalability.ini]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.15-14.31.12:632][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Config/Windows/Scalability.ini]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Config/Windows/Scalability.ini]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Config/Windows/Scalability.ini]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.15-14.31.12:633][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.15-14.31.12:633][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.15-14.31.12:633][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.15-14.31.12:653][  0]LogHAL: Display: Platform has ~ 16 GB [16966279168 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.15-14.31.12:653][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.15-14.31.12:653][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.15-14.31.12:653][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Config/Windows/Scalability.ini]
+[2019.08.15-14.31.12:653][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.15-14.31.12:653][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.15-14.31.12:653][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Config/Windows/Scalability.ini]
+[2019.08.15-14.31.12:653][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.15-14.31.12:653][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Config/Windows/Scalability.ini]
+[2019.08.15-14.31.12:653][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.15-14.31.12:653][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.15-14.31.12:653][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.15-14.31.12:653][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.15-14.31.12:653][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.15-14.31.12:653][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.15-14.31.12:653][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.15-14.31.12:653][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.15-14.31.12:653][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.15-14.31.12:653][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.15-14.31.12:653][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.15-14.31.12:653][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Config/Windows/Scalability.ini]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Config/Windows/Scalability.ini]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Config/Windows/Scalability.ini]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.15-14.31.12:654][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.15-14.31.12:655][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Config/Windows/Scalability.ini]
+[2019.08.15-14.31.12:655][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.15-14.31.12:655][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.15-14.31.12:655][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.15-14.31.12:655][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.15-14.31.12:655][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.15-14.31.12:655][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Config/Windows/Engine.ini]
+[2019.08.15-14.31.12:655][  0]LogInit: Computer: DESKTOP-7VHFLUL
+[2019.08.15-14.31.12:655][  0]LogInit: User: Chohgin
+[2019.08.15-14.31.12:655][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.08.15-14.31.12:655][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.15-14.31.12:656][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.08.15-14.31.12:656][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.15-14.31.12:656][  0]LogMemory: Process Physical Memory: 97.27 MB used, 97.27 MB peak
+[2019.08.15-14.31.12:656][  0]LogMemory: Process Virtual Memory: 89.74 MB used, 89.74 MB peak
+[2019.08.15-14.31.12:656][  0]LogMemory: Physical Memory: 7668.14 MB used,  8512.17 MB free, 16180.30 MB total
+[2019.08.15-14.31.12:656][  0]LogMemory: Virtual Memory: 4674.63 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.08.15-14.31.12:718][  0]LogInit: Using OS detected language (en-US).
+[2019.08.15-14.31.12:718][  0]LogInit: Using OS detected locale (en-CA).
+[2019.08.15-14.31.12:718][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.08.15-14.31.12:949][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.15-14.31.12:998][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.15-14.31.12:998][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.15-14.31.13:256][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.15-14.31.13:256][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.15-14.31.13:356][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (Feature Level 11_0)
+[2019.08.15-14.31.13:356][  0]LogD3D11RHI:       8031/0/8090 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.15-14.31.13:381][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.08.15-14.31.13:381][  0]LogD3D11RHI:       128/0/8090 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.08.15-14.31.13:383][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.15-14.31.13:383][  0]LogD3D11RHI:       0/0/8090 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.15-14.31.13:383][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.15-14.31.13:416][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.15-14.31.13:416][  0]LogD3D11RHI:     GPU DeviceId: 0x1f10 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.15-14.31.13:416][  0]LogWindows: EnumDisplayDevices:
+[2019.08.15-14.31.13:416][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.08.15-14.31.13:417][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.08.15-14.31.13:417][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.08.15-14.31.13:417][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+[2019.08.15-14.31.13:417][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+[2019.08.15-14.31.13:418][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+[2019.08.15-14.31.13:418][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+[2019.08.15-14.31.13:419][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.08.15-14.31.13:419][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 with Max-Q Design
+[2019.08.15-14.31.13:419][  0]LogD3D11RHI:   Driver Version: 425.46 (internal:25.21.14.2546, unified:425.46)
+[2019.08.15-14.31.13:419][  0]LogD3D11RHI:      Driver Date: 4-25-2019
+[2019.08.15-14.31.13:419][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2019.08.15-14.31.13:478][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.15-14.31.13:488][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.15-14.31.13:488][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.15-14.31.13:488][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.15-14.31.13:496][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.15-14.31.13:870][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.15-14.31.13:887][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.15-14.31.13:907][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.15-14.31.13:927][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.15-14.31.13:949][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.15-14.31.13:967][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.15-14.31.13:993][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.15-14.31.14:011][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.15-14.31.14:020][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.15-14.31.14:122][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.15-14.31.14:122][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.15-14.31.14:122][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.15-14.31.14:122][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.15-14.31.14:122][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.15-14.31.14:122][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.15-14.31.14:122][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.15-14.31.14:122][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.15-14.31.14:122][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.15-14.31.14:122][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.15-14.31.14:122][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.15-14.31.14:122][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.15-14.31.14:122][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.15-14.31.14:122][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.15-14.31.14:122][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.15-14.31.14:122][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.15-14.31.14:122][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.15-14.31.14:122][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.15-14.31.14:125][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.15-14.31.14:182][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.15-14.31.14:182][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.15-14.31.14:210][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.15-14.31.14:210][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.15-14.31.14:223][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.15-14.31.14:237][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.15-14.31.14:254][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.15-14.31.14:267][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.15-14.31.14:317][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.15-14.31.14:317][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.15-14.31.14:317][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.15-14.31.14:325][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.15-14.31.14:381][  0]LogShaderCompilers: Guid format shader working directory is -45 characters bigger than the processId version (../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Intermediate/Shaders/WorkingDirectory/18672/).
+[2019.08.15-14.31.14:381][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Chohgin/AppData/Local/Temp/UnrealShaderWorkingDir/C15B6CBE4F59A754584FD98BFF087D57/'.
+[2019.08.15-14.31.14:383][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.15-14.31.14:383][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.15-14.31.14:383][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.15-14.31.14:981][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.15-14.31.15:062][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Chohgin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.15-14.31.15:062][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Chohgin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.15-14.31.15:062][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.15-14.31.15:062][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.15-14.31.15:062][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.15-14.31.15:063][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.15-14.31.15:077][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.15-14.31.15:077][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.15-14.31.15:077][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.15-14.31.15:090][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Chohgin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.15-14.31.15:090][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.15-14.31.15:090][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.15-14.31.15:116][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.15-14.31.15:118][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.15-14.31.15:118][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.15-14.31.15:208][  0]LogAssetRegistry: FAssetRegistry took 0.0359 seconds to start up
+[2019.08.15-14.31.15:606][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.15-14.31.15:763][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.15-14.31.15:763][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.15-14.31.15:763][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.15-14.31.15:763][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.15-14.31.15:763][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.15-14.31.15:776][  0]LogNetVersion: ProjectDelta 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2735438794)
+[2019.08.15-14.31.16:288][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.077361 seconds
+[2019.08.15-14.31.16:298][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.15-14.31.16:298][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.15-14.31.16:298][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.15-14.31.17:156][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.15-14.31.17:171][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.15-14.31.17:284][  0]SourceControl: Source control is disabled
+[2019.08.15-14.31.17:284][  0]SourceControl: Source control is disabled
+[2019.08.15-14.31.17:286][  0]SourceControl: Source control is disabled
+[2019.08.15-14.31.17:288][  0]SourceControl: Source control is disabled
+[2019.08.15-14.31.17:376][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.15-14.31.17:759][  0]LogOcInput: OculusInput pre-init called
+[2019.08.15-14.31.18:413][  0]LogEngine: Initializing Engine...
+[2019.08.15-14.31.18:414][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.15-14.31.18:415][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.15-14.31.18:665][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.15-14.31.18:683][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.15-14.31.18:703][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.08.15-14.31.18:785][  0]LogInit: FAudioDevice initialized.
+[2019.08.15-14.31.18:786][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.15-14.31.18:848][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/Chohgin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.15-14.31.18:861][  0]LogInit: Texture streaming: Enabled
+[2019.08.15-14.31.18:883][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.15-14.31.18:913][  0]LogInit: Transaction tracking system initialized
+[2019.08.15-14.31.18:938][  0]BlueprintLog: New page: Editor Load
+[2019.08.15-14.31.19:042][  0]LocalizationService: Localization service is disabled
+[2019.08.15-14.31.19:149][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2019.08.15-14.31.19:149][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2019.08.15-14.31.19:149][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview_C'
+[2019.08.15-14.31.19:369][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/' took 0.02s
+[2019.08.15-14.31.19:369][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.15-14.31.19:370][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.15-14.31.19:577][  0]SourceControl: Source control is disabled
+[2019.08.15-14.31.19:578][  0]LightingResults: New page: Lighting Build
+[2019.08.15-14.31.19:581][  0]MapCheck: New page: Map Check
+[2019.08.15-14.31.19:581][  0]LightingResults: New page: Lighting Build
+[2019.08.15-14.31.19:607][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.08.15-14.31.20:201][  0]LogStaticMesh: Building static mesh G_Altar...
+[2019.08.15-14.31.20:210][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/G_Altar.G_Altar
+[2019.08.15-14.31.20:264][  0]LogStaticMesh: Building static mesh G_IceStair...
+[2019.08.15-14.31.20:284][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/G_IceStair.G_IceStair
+[2019.08.15-14.31.20:288][  0]LogStaticMesh: Building static mesh G_McguffinHolder...
+[2019.08.15-14.31.20:326][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Geometry/Meshes/G_McguffinHolder.G_McguffinHolder
+[2019.08.15-14.31.20:332][  0]LogStaticMesh: Building static mesh G_VoidBridge...
+[2019.08.15-14.31.20:335][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/G_VoidBridge.G_VoidBridge
+[2019.08.15-14.31.20:404][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.08.15-14.31.20:428][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.15-14.31.20:461][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.08.15-14.31.20:461][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.15-14.31.20:461][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.22ms to complete.
+[2019.08.15-14.31.20:461][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.884
+[2019.08.15-14.31.20:608][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-14.31.20:618][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-14.31.20:627][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-14.31.20:634][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-14.31.20:647][  0]LogCollectionManager: Loaded 0 collections in 0.001587 seconds
+[2019.08.15-14.31.20:673][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Collections/' took 0.01s
+[2019.08.15-14.31.20:673][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/Developers/Chohgin/Collections/' took 0.00s
+[2019.08.15-14.31.20:673][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/Collections/' took 0.00s
+[2019.08.15-14.31.20:673][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.08.15-14.31.20:684][  0]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2732 classes and 659 folders.
+[2019.08.15-14.31.20:696][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.15-14.31.20:708][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:718][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:733][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:739][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:747][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:754][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:761][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:768][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:776][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:786][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:793][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:799][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:805][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:813][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:819][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:824][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:854][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:861][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:868][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:874][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:881][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:888][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:895][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:903][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:911][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.20:919][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.15-14.31.21:133][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.08.15-14.31.21:148][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.08.15-14.31.21:299][  0]LogSlate: Took 0.000338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.15-14.31.21:302][  0]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.15-14.31.21:317][  0]LogSlate: Took 0.005887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.15-14.31.21:475][  0]LogRenderer: Reallocating scene render targets to support 704x392 Format 10 NumSamples 1 (Frame:1).
+[2019.08.15-14.31.21:647][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.15-14.31.21:647][  0]LogLoad: (Engine Initialization) Total time: 11.07 seconds
+[2019.08.15-14.31.21:647][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.15-14.31.21:684][  0]LogAssetRegistry: Asset discovery search completed in 6.4982 seconds
+[2019.08.15-14.31.21:686][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.15-14.31.21:686][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2019.08.15-14.31.21:688][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.15-14.31.50:324][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.32.38:797][ 38]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.08.15-14.32.42:246][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.32.53:995][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.32.54:157][613]LogRenderer: Reallocating scene render targets to support 704x416 Format 10 NumSamples 1 (Frame:9244).
+[2019.08.15-14.32.54:207][614]LogRenderer: Reallocating scene render targets to support 704x436 Format 10 NumSamples 1 (Frame:9246).
+[2019.08.15-14.32.54:255][615]LogRenderer: Reallocating scene render targets to support 704x464 Format 10 NumSamples 1 (Frame:9248).
+[2019.08.15-14.32.54:305][616]LogRenderer: Reallocating scene render targets to support 704x488 Format 10 NumSamples 1 (Frame:9250).
+[2019.08.15-14.32.54:349][617]LogRenderer: Reallocating scene render targets to support 704x512 Format 10 NumSamples 1 (Frame:9252).
+[2019.08.15-14.32.54:392][618]LogRenderer: Reallocating scene render targets to support 704x528 Format 10 NumSamples 1 (Frame:9254).
+[2019.08.15-14.32.54:445][619]LogRenderer: Reallocating scene render targets to support 704x544 Format 10 NumSamples 1 (Frame:9256).
+[2019.08.15-14.32.54:488][620]LogRenderer: Reallocating scene render targets to support 704x584 Format 10 NumSamples 1 (Frame:9258).
+[2019.08.15-14.32.54:538][621]LogRenderer: Reallocating scene render targets to support 704x596 Format 10 NumSamples 1 (Frame:9260).
+[2019.08.15-14.32.54:581][622]LogRenderer: Reallocating scene render targets to support 704x608 Format 10 NumSamples 1 (Frame:9262).
+[2019.08.15-14.32.54:632][623]LogRenderer: Reallocating scene render targets to support 704x612 Format 10 NumSamples 1 (Frame:9264).
+[2019.08.15-14.32.54:680][624]LogRenderer: Reallocating scene render targets to support 704x620 Format 10 NumSamples 1 (Frame:9266).
+[2019.08.15-14.32.54:721][625]LogRenderer: Reallocating scene render targets to support 704x640 Format 10 NumSamples 1 (Frame:9268).
+[2019.08.15-14.32.54:766][626]LogRenderer: Reallocating scene render targets to support 704x656 Format 10 NumSamples 1 (Frame:9270).
+[2019.08.15-14.32.54:815][627]LogRenderer: Reallocating scene render targets to support 704x688 Format 10 NumSamples 1 (Frame:9272).
+[2019.08.15-14.33.08:922][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.34.00:752][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.34.07:963][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.34.10:545][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.34.11:846][650]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.08.15-14.34.16:456][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.34.51:995][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.35.14:217][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.36.33:615][ 84]Cmd: TRANSACTION UNDO
+[2019.08.15-14.36.33:615][ 84]LogEditorTransaction: Undo Scale Actors
+[2019.08.15-14.36.33:651][ 84]LogSlate: Took 0.006165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.15-14.36.35:408][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.36.40:135][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.37.28:926][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.37.44:334][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.38.05:659][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (G_IceArena)
+[2019.08.15-14.38.08:589][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.38.32:470][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.38.52:705][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.39.28:109][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.39.41:831][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.40.05:298][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.40.07:576][865]Cmd: TRANSACTION UNDO
+[2019.08.15-14.40.07:576][865]LogEditorTransaction: Undo Edit Z
+[2019.08.15-14.40.44:726][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.40.56:050][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.41.17:836][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.42.06:518][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.08.15-14.42.06:808][964]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/FirstPersonExampleMap_Auto1C2A75C754883DB7C8139FEB8A1CFD358.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.08.15-14.42.06:816][964]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.329
+[2019.08.15-14.42.06:816][964]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.329
+[2019.08.15-14.43.12:692][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.43.59:566][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.44.07:812][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.44.45:291][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.44.46:572][520]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.08.15-14.45.09:661][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.45.27:503][956]Cmd: TRANSACTION UNDO
+[2019.08.15-14.45.27:503][956]LogEditorTransaction: Undo Edit Z
+[2019.08.15-14.45.45:010][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.46.20:051][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-14.46.28:757][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.46.52:155][  0]LogSlate: Window 'Select Path' being destroyed
+[2019.08.15-14.46.52:166][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-14.46.52:241][  0]LogStaticMesh: Building static mesh G_IcePillar...
+[2019.08.15-14.46.52:287][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Geometry/Meshes/G_IcePillar.G_IcePillar
+[2019.08.15-14.46.52:293][  0]LogActorFactory: Actor Factory created G_IcePillar
+[2019.08.15-14.46.52:326][  0]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush' is marked pending kill and cannot be converted
+[2019.08.15-14.46.52:326][  0]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ConeBrush' is marked pending kill and cannot be converted
+[2019.08.15-14.46.52:326][  0]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ConeBrush2' is marked pending kill and cannot be converted
+[2019.08.15-14.46.52:326][  0]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ConeBrush3' is marked pending kill and cannot be converted
+[2019.08.15-14.46.52:326][  0]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.CylinderBrush' is marked pending kill and cannot be converted
+[2019.08.15-14.46.52:326][  0]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.CylinderBrush2' is marked pending kill and cannot be converted
+[2019.08.15-14.46.52:326][  0]EditorErrors: New page: Actor Reattachment
+[2019.08.15-14.46.52:357][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.08.15-14.48.02:475][200]Cmd: TRANSACTION UNDO
+[2019.08.15-14.48.02:475][200]LogEditorTransaction: Undo Move Actors
+[2019.08.15-14.48.03:619][268]Cmd: TRANSACTION UNDO
+[2019.08.15-14.48.03:619][268]LogEditorTransaction: Undo Move Actors
+[2019.08.15-14.48.03:788][278]Cmd: TRANSACTION UNDO
+[2019.08.15-14.48.03:788][278]LogEditorTransaction: Undo Convert Actors
+[2019.08.15-14.48.20:906][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.48.22:535][397]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.08.15-14.48.24:081][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-14.48.35:684][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.48.37:714][298]Cmd: TRANSACTION UNDO
+[2019.08.15-14.48.37:714][298]LogEditorTransaction: Undo Edit Y
+[2019.08.15-14.48.42:294][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.48.50:920][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (G_IceArena)
+[2019.08.15-14.48.51:559][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (G_IceArena)
+[2019.08.15-14.48.54:691][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.49.16:682][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.49.35:829][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.50.08:556][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.50.11:152][865]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.08.15-14.50.16:026][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.50.25:596][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.50.33:222][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.51.04:644][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.51.18:185][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.51.27:546][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.51.36:053][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.51.46:881][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.51.53:528][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.52.33:721][365]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush3)
+[2019.08.15-14.52.37:904][611]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush3)
+[2019.08.15-14.52.38:935][671]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush3)
+[2019.08.15-14.52.44:668][  8]Cmd: TRANSACTION UNDO
+[2019.08.15-14.52.44:668][  8]LogEditorTransaction: Undo Move Actors
+[2019.08.15-14.52.47:281][158]Cmd: TRANSACTION UNDO
+[2019.08.15-14.52.47:281][158]LogEditorTransaction: Undo Move Actors
+[2019.08.15-14.52.48:275][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.53.28:509][619]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.08.15-14.53.47:591][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.53.53:130][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.53.59:334][456]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.08.15-14.54.03:135][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.54.10:543][112]Cmd: TRANSACTION UNDO
+[2019.08.15-14.54.10:543][112]LogEditorTransaction: Undo Move Actors
+[2019.08.15-14.54.18:655][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.54.22:783][836]Cmd: TRANSACTION UNDO
+[2019.08.15-14.54.22:783][836]LogEditorTransaction: Undo Edit Step Width
+[2019.08.15-14.54.27:288][ 99]Cmd: TRANSACTION UNDO
+[2019.08.15-14.54.27:288][ 99]LogEditorTransaction: Undo Edit Num Steps
+[2019.08.15-14.54.39:545][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.54.56:611][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.55.05:406][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.55.19:776][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.55.32:180][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.55.53:438][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.56.02:188][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.56.47:133][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.56.57:698][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.57.17:381][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.57.45:811][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.57.50:847][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.57.59:386][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.58.12:531][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.58.27:273][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.58.52:864][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.59.03:271][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-14.59.55:888][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.00.07:467][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.00.51:672][502]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-15.00.51:752][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.08.15-15.00.52:149][502]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/FirstPersonExampleMap_Auto28C0850234F266512286FB9B642E08A4D.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2019.08.15-15.00.52:155][502]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.450
+[2019.08.15-15.00.52:155][502]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.450
+[2019.08.15-15.01.12:156][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.01.24:769][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.01.27:457][818]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.08.15-15.01.29:541][997]Cmd: TRANSACTION UNDO
+[2019.08.15-15.01.29:541][997]LogEditorTransaction: Undo Move Actors
+[2019.08.15-15.01.45:350][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.01.56:620][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.02.20:520][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.02.42:493][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.02.51:310][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.02.52:726][134]Cmd: TRANSACTION UNDO
+[2019.08.15-15.02.52:726][134]LogEditorTransaction: Undo Edit Z
+[2019.08.15-15.03.19:000][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.04.12:651][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.04.33:957][859]LogSlate: Window 'Select Path' being destroyed
+[2019.08.15-15.04.34:029][859]LogStaticMesh: Building static mesh G_IcePillarStairs...
+[2019.08.15-15.04.34:081][859]LogStaticMesh: Built static mesh [0.05s] /Game/Geometry/Meshes/G_IcePillarStairs.G_IcePillarStairs
+[2019.08.15-15.04.34:090][859]LogActorFactory: Actor Factory created G_IcePillarStairs
+[2019.08.15-15.04.34:131][859]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush3' is marked pending kill and cannot be converted
+[2019.08.15-15.04.34:131][859]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.CurvedStairBrush' is marked pending kill and cannot be converted
+[2019.08.15-15.04.34:131][859]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.CurvedStairBrush2' is marked pending kill and cannot be converted
+[2019.08.15-15.04.34:131][859]EditorErrors: New page: Actor Reattachment
+[2019.08.15-15.04.34:166][859]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.08.15-15.04.49:038][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.04.50:677][350]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.08.15-15.05.12:803][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.05.29:971][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.05.49:358][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.05.57:114][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.06.09:100][828]Cmd: TRANSACTION UNDO
+[2019.08.15-15.06.09:100][828]LogEditorTransaction: Undo Move Actors
+[2019.08.15-15.06.23:374][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.06.37:490][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.06.39:391][623]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.08.15-15.06.41:863][855]Cmd: DELETE
+[2019.08.15-15.06.41:863][855]Cmd: ACTOR DELETE
+[2019.08.15-15.06.41:887][855]LogEditorActor: Deleted Actor: Brush
+[2019.08.15-15.06.41:920][855]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.08.15-15.06.41:947][855]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2019.08.15-15.06.56:711][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.07.10:785][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.07.42:843][887]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.08.15-15.07.57:356][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.08.11:520][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.08.20:288][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.08.38:862][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.09.00:663][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.09.00:821][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.08.15-15.09.01:172][423]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/FirstPersonExampleMapDBAA5DF0416367955BE6F993110A1233.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.08.15-15.09.01:256][423]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/FirstPersonExampleMap_BuiltDataBF6841724A2192F9A4C353BCC11C23A7.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.08.15-15.09.26:968][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.09.59:695][756]LogSlate: Window 'Select Path' being destroyed
+[2019.08.15-15.10.02:973][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.08.15-15.10.05:217][ 56]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.15-15.10.05:318][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.08.15-15.10.26:774][829]LogSlate: Window 'Select Path' being destroyed
+[2019.08.15-15.10.44:529][402]LogSlate: Window 'Select Path' being destroyed
+[2019.08.15-15.10.44:675][402]LogStaticMesh: Building static mesh G_IcePIllar...
+[2019.08.15-15.10.44:791][402]LogStaticMesh: Built static mesh [0.12s] /Game/Geometry/Meshes/G_IcePIllar.G_IcePIllar
+[2019.08.15-15.10.44:801][402]LogActorFactory: Actor Factory created G_IcePIllar
+[2019.08.15-15.10.44:826][402]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush' is marked pending kill and cannot be converted
+[2019.08.15-15.10.44:826][402]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush2' is marked pending kill and cannot be converted
+[2019.08.15-15.10.44:826][402]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush3_19' is marked pending kill and cannot be converted
+[2019.08.15-15.10.44:826][402]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ConeBrush' is marked pending kill and cannot be converted
+[2019.08.15-15.10.44:826][402]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ConeBrush2' is marked pending kill and cannot be converted
+[2019.08.15-15.10.44:826][402]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ConeBrush3' is marked pending kill and cannot be converted
+[2019.08.15-15.10.44:826][402]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.CylinderBrush' is marked pending kill and cannot be converted
+[2019.08.15-15.10.44:826][402]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.CylinderBrush2' is marked pending kill and cannot be converted
+[2019.08.15-15.10.44:826][402]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.CylinderBrush3' is marked pending kill and cannot be converted
+[2019.08.15-15.10.44:826][402]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.SpiralStairBrush' is marked pending kill and cannot be converted
+[2019.08.15-15.10.44:826][402]EditorErrors: New page: Actor Reattachment
+[2019.08.15-15.10.44:852][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.08.15-15.10.58:832][706]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.08.15-15.11.02:348][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (G_IcePillarStairs)
+[2019.08.15-15.11.10:451][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.11.10:626][705]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/G_IcePillarStairs.G_IcePillarStairs
+[2019.08.15-15.11.11:212][705]LogRenderer: Reallocating scene render targets to support 1272x804 Format 10 NumSamples 1 (Frame:1).
+[2019.08.15-15.11.11:212][705]LogSlate: Took 0.006210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.15-15.11.46:116][791]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-15.11.46:174][791]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/G_IcePillarStairsD832751E401FAF1507FA2CA22DB12666.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/Geometry/Meshes/G_IcePillarStairs.uasset'
+[2019.08.15-15.12.02:922][496]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/G_IcePIllar.G_IcePIllar
+[2019.08.15-15.12.08:484][796]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-15.12.11:145][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.12.18:810][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.12.29:369][ 20]LogEditorTransaction: Undo Clicking on Actors
+[2019.08.15-15.12.29:618][ 20]LogEditorTransaction: Undo Clicking on Actors
+[2019.08.15-15.12.31:732][125]LogEditorTransaction: Undo Move World Outliner Items
+[2019.08.15-15.12.35:403][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.13.15:162][666]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-15.13.35:038][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.15.02:438][615]LogEditorTransaction: Undo Scale Collision
+[2019.08.15-15.15.07:571][858]LogEditorTransaction: Undo Scale Collision
+[2019.08.15-15.15.24:432][778]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-15.16.56:617][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.17.32:889][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.17.46:499][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.18.11:239][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.18.17:825][231]LogEditorTransaction: Undo Translate Collision
+[2019.08.15-15.18.32:256][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.19.22:932][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.19.49:167][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.20.12:709][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.20.34:851][700]LogEditorTransaction: Undo Translate Collision
+[2019.08.15-15.21.00:187][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.21.31:844][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.22.00:865][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.22.42:764][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.23.15:671][515]LogEditorTransaction: Undo Translate Collision
+[2019.08.15-15.23.38:777][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.24.18:682][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.24.57:361][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.25.35:084][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.26.00:542][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.26.36:467][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.27.17:574][467]LogEditorTransaction: Undo Translate Collision
+[2019.08.15-15.27.26:531][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.27.56:042][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.28.26:889][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.29.08:784][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.29.44:328][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.08.15-15.29.44:446][191]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/FirstPersonExampleMap_Auto3C27E529544B4035F3F0F778057423BB5.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2019.08.15-15.29.44:450][191]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.149
+[2019.08.15-15.29.44:450][191]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.149
+[2019.08.15-15.29.44:453][191]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/G_IcePIllar] ([1] browsable assets)...
+[2019.08.15-15.29.44:470][191]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/G_IcePIllar.G_IcePIllar]
+[2019.08.15-15.29.44:470][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/G_IcePIllar]
+[2019.08.15-15.29.44:491][191]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/G_IcePIllar_Auto3037CF1AC4E512562F61BF5AD97F56F65.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Autosaves/Game/Geometry/Meshes/G_IcePIllar_Auto3.uasset'
+[2019.08.15-15.29.44:493][191]LogFileHelpers: Auto-saving content packages took 0.041
+[2019.08.15-15.30.36:559][971]LogEditorTransaction: Undo Scale Collision
+[2019.08.15-15.30.49:671][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.30.59:128][664]LogEditorTransaction: Undo Translate Collision
+[2019.08.15-15.31.24:152][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.31.50:825][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.32.12:668][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.32.19:184][531]LogEditorTransaction: Undo Translate Collision
+[2019.08.15-15.32.23:563][833]LogEditorTransaction: Undo Duplicate Collision
+[2019.08.15-15.32.38:852][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.33.02:078][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.33.46:123][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.34.13:295][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.34.35:841][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-15.35.00:402][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-15.35.00:453][457]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/G_IcePIllar920E3A084D8BFAEA2311788C7F2015B3.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/Geometry/Meshes/G_IcePIllar.uasset'
+[2019.08.15-16.38.28:007][785]LogRenderer: Reallocating scene render targets to support 1272x824 Format 10 NumSamples 1 (Frame:74803).
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:088][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.28:089][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.38.29:351][787]LogHttp: Warning: 000002B488D9DE40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.15-16.38.29:351][787]LogHttp: Warning: 000002B488D9DE40: libcurl info message cache 0 (Connection 25 seems to be dead!)
+[2019.08.15-16.38.29:351][787]LogHttp: Warning: 000002B488D9DE40: libcurl info message cache 1 (Closing connection 25)
+[2019.08.15-16.38.29:351][787]LogHttp: Warning: 000002B488D9DE40: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.08.15-16.38.29:351][787]LogHttp: Warning: 000002B488D9DE40: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.15-16.38.29:351][787]LogHttp: Warning: 000002B488D9DE40: libcurl info message cache 4 (Closing connection 26)
+[2019.08.15-16.38.29:700][788]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0F8376B0-44D6-63B1-CD64-21985D4BA874%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=ca6e70594588b8f055b886a7342be7a4%7C067cde8d29a6492fa23595ba5c9532f4%7C7662f699-f6ce-42d2-85de-2aa0974bd29d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.15-16.39.21:824][942]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.736 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.15-16.42.17:968][468]LogRenderer: Reallocating scene render targets to support 1272x1172 Format 10 NumSamples 1 (Frame:77126).
+[2019.08.15-16.42.25:900][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (G_IcePillarStairs)
+[2019.08.15-16.42.28:553][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-16.43.07:843][315]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (G_IcePillarStairs)
+[2019.08.15-16.43.07:861][315]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-16.43.37:104][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-16.44.03:112][504]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-16.44.18:988][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-16.44.27:905][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-16.44.36:899][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-16.46.18:359][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-16.47.54:357][316]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-16.47.54:408][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.08.15-16.47.54:408][316]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.028
+[2019.08.15-16.47.54:410][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/G_IcePIllar] ([1] browsable assets)...
+[2019.08.15-16.47.54:422][316]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/G_IcePIllar.G_IcePIllar]
+[2019.08.15-16.47.54:422][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/G_IcePIllar]
+[2019.08.15-16.47.54:450][316]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/G_IcePIllar_Auto445BE55814F3329606F17E299FFC2D5F2.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Autosaves/Game/Geometry/Meshes/G_IcePIllar_Auto4.uasset'
+[2019.08.15-16.47.54:451][316]LogFileHelpers: Auto-saving content packages took 0.041
+[2019.08.15-16.52.00:090][102]LogInit: XAudio2 using 'Headphones (Jib+Active Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-16.52.16:406][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-16.52.32:778][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-16.52.47:142][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-16.53.24:657][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-16.53.45:871][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-16.54.08:452][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-16.54.56:152][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-16.55.25:909][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-16.55.52:214][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-16.56.21:972][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-16.56.43:998][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-16.57.10:870][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-16.57.30:101][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-16.57.44:711][212]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-16.57.44:764][212]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/G_IcePIllar75ACFBDC4364288AE6DA9C9DC38D054E.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/Geometry/Meshes/G_IcePIllar.uasset'
+[2019.08.15-16.57.45:986][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.08.15-16.57.45:991][283]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-16.57.46:039][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.08.15-16.57.46:160][283]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/FirstPersonExampleMapD056DD1C44348760746952AB01A16B2C.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.08.15-16.57.46:189][283]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.179
+[2019.08.15-16.59.15:477][636]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-17.00.03:459][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.00.18:940][366]LogEditorTransaction: Undo Translate Collision
+[2019.08.15-17.00.20:453][438]LogEditorTransaction: Undo Duplicate Collision
+[2019.08.15-17.01.04:597][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.02.24:706][801]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-17.02.32:583][270]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-17.02.40:097][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.03.36:404][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-17.04.01:478][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.04.07:764][929]LogEditorTransaction: Undo Set Vector Property
+[2019.08.15-17.04.56:402][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.05.28:729][716]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-17.05.28:777][716]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/G_IcePIllar24F269F84EC9B158183C57A530C5FD99.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/Geometry/Meshes/G_IcePIllar.uasset'
+[2019.08.15-17.05.36:709][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.08.15-17.05.37:840][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
