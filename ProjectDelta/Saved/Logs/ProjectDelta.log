@@ -1037,3 +1037,208 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.15-17.29.44:808][129]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/FirstPersonExampleMap37246F494D671BAFC57606B7F5162AD8.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2019.08.15-17.29.44:831][129]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.158
 [2019.08.15-17.29.48:081][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.30.22:038][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-17.30.31:146][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.31.02:998][875]LogSlate: Window 'Message' being destroyed
+[2019.08.15-17.31.07:626][875]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2019.08.15-17.31.07:659][875]LogStaticMesh: Building static mesh G_IcePIllarUpdate...
+[2019.08.15-17.31.07:733][875]LogStaticMesh: Built static mesh [0.07s] /Game/Geometry/Meshes/G_IcePIllarUpdate.G_IcePIllarUpdate
+[2019.08.15-17.31.19:956][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.31.29:128][125]LogActorFactory: Actor Factory created G_IcePIllarUpdate
+[2019.08.15-17.31.29:965][175]LogActorFactory: Actor Factory created G_IcePIllarUpdate
+[2019.08.15-17.31.33:437][381]Cmd: DELETE
+[2019.08.15-17.31.33:437][381]Cmd: ACTOR DELETE
+[2019.08.15-17.31.33:439][381]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.15-17.31.33:465][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.08.15-17.31.33:465][381]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.08.15-17.31.34:398][437]Cmd: TRANSACTION UNDO
+[2019.08.15-17.31.34:398][437]LogEditorTransaction: Undo Delete Actors
+[2019.08.15-17.31.35:285][472]Cmd: TRANSACTION UNDO
+[2019.08.15-17.31.35:285][472]LogEditorTransaction: Undo Create Actors
+[2019.08.15-17.31.35:563][473]Cmd: TRANSACTION UNDO
+[2019.08.15-17.31.35:563][473]LogEditorTransaction: Undo Clicking on Actors
+[2019.08.15-17.31.45:164][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.31.45:555][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.15-17.31.46:729][ 55]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.15-17.31.46:804][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.08.15-17.31.49:837][237]Cmd: DELETE
+[2019.08.15-17.31.49:837][237]Cmd: ACTOR DELETE
+[2019.08.15-17.31.49:839][237]LogEditorActor: Deleted Actor: Brush
+[2019.08.15-17.31.49:861][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.15-17.31.49:862][237]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.08.15-17.32.02:065][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.32.08:026][326]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.08.15-17.32.20:293][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.32.25:665][378]Cmd: TRANSACTION UNDO
+[2019.08.15-17.32.25:665][378]LogEditorTransaction: Undo Edit Z
+[2019.08.15-17.32.25:950][379]Cmd: TRANSACTION UNDO
+[2019.08.15-17.32.25:950][379]LogEditorTransaction: Undo Edit Outer Radius
+[2019.08.15-17.32.26:241][380]Cmd: TRANSACTION UNDO
+[2019.08.15-17.32.26:241][380]LogEditorTransaction: Undo Move Actors
+[2019.08.15-17.32.26:637][388]Cmd: TRANSACTION UNDO
+[2019.08.15-17.32.26:637][388]LogEditorTransaction: Undo Move Actors
+[2019.08.15-17.32.28:431][480]Cmd: TRANSACTION UNDO
+[2019.08.15-17.32.28:432][480]LogEditorTransaction: Undo Scale Actors
+[2019.08.15-17.32.29:608][535]Cmd: TRANSACTION UNDO
+[2019.08.15-17.32.29:608][535]LogEditorTransaction: Undo Brush Add
+[2019.08.15-17.32.33:527][754]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.08.15-17.32.35:286][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.32.54:475][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.33.20:866][573]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.08.15-17.33.41:386][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.33.45:778][ 60]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.08.15-17.33.49:327][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.33.54:114][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.33.58:305][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.34.08:177][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.34.49:135][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.34.50:779][936]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.08.15-17.35.17:301][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.35.32:697][434]LogSlate: Window 'Select Path' being destroyed
+[2019.08.15-17.35.32:742][434]LogStaticMesh: Building static mesh G_CoverUp...
+[2019.08.15-17.35.32:751][434]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/G_CoverUp.G_CoverUp
+[2019.08.15-17.35.32:754][434]LogActorFactory: Actor Factory created G_CoverUp
+[2019.08.15-17.35.32:772][434]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush_25' is marked pending kill and cannot be converted
+[2019.08.15-17.35.32:772][434]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ConeBrush' is marked pending kill and cannot be converted
+[2019.08.15-17.35.32:772][434]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.CylinderBrush' is marked pending kill and cannot be converted
+[2019.08.15-17.35.32:772][434]EditorErrors: New page: Actor Reattachment
+[2019.08.15-17.35.32:796][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.08.15-17.36.27:089][ 87]LogInit: XAudio2 using 'Headset (Jib+Active Hands-Free)' : 1 channels at 16 kHz using 16 bits per sample (channel mask 0x4)
+[2019.08.15-17.36.27:638][ 87]LogAudio: Error: CreateSubmixVoice (Reverb) error: XAPO Creation Failed
+[2019.08.15-17.36.27:685][ 88]LogInit: XAudio2 using 'Headphones (Jib+Active Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.36.33:894][107]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-17.37.09:696][525]Cmd: TRANSACTION UNDO
+[2019.08.15-17.37.09:696][525]LogEditorTransaction: Undo Scale Actors
+[2019.08.15-17.37.13:750][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.37.13:900][750]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/G_CoverUp.G_CoverUp
+[2019.08.15-17.37.19:868][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-17.37.22:858][262]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-17.37.27:420][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.37.46:282][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.08.15-17.37.46:287][658]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-17.37.46:332][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.08.15-17.37.46:478][658]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/FirstPersonExampleMapB75D4E294A5C1090E57AA587BAEDB073.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.08.15-17.37.46:512][658]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.209
+[2019.08.15-17.37.46:546][658]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/G_CoverUp9607A3B7452020076D71B18C3604184B.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/Geometry/Meshes/G_CoverUp.uasset'
+[2019.08.15-17.37.48:969][800]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.08.15-17.38.07:505][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.38.10:080][ 28]EditorErrors: New page: Actor attachment
+[2019.08.15-17.38.12:570][175]EditorErrors: New page: Actor attachment
+[2019.08.15-17.38.17:281][455]EditorErrors: New page: Actor attachment
+[2019.08.15-17.38.27:134][ 46]EditorErrors: New page: Actor attachment
+[2019.08.15-17.38.33:202][407]EditorErrors: New page: Actor attachment
+[2019.08.15-17.38.47:943][285]EditorErrors: New page: Actor attachment
+[2019.08.15-17.38.53:411][610]EditorErrors: New page: Actor attachment
+[2019.08.15-17.38.58:093][887]EditorErrors: New page: Actor attachment
+[2019.08.15-17.39.03:441][205]Cmd: TRANSACTION UNDO
+[2019.08.15-17.39.03:441][205]LogEditorTransaction: Undo Attach actors
+[2019.08.15-17.39.07:905][445]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.15-17.39.14:160][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.39.57:548][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.40.13:511][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.40.29:246][208]Cmd: TRANSACTION UNDO
+[2019.08.15-17.40.29:246][208]LogEditorTransaction: Undo Set Rotation
+[2019.08.15-17.40.29:803][220]Cmd: TRANSACTION UNDO
+[2019.08.15-17.40.29:803][220]LogEditorTransaction: Undo Move Actors
+[2019.08.15-17.41.06:909][384]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-17.41.06:960][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.08.15-17.41.07:073][384]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/FirstPersonExampleMap4E5CC2D140BCEA7DEB326886AB07293C.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.08.15-17.41.07:137][384]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/FirstPersonExampleMap_BuiltData8F870B284EEAEE41E8055E9AD9D003BD.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.08.15-17.41.09:938][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.41.10:022][554]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.41.10:033][554]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.15-17.41.10:034][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.41.10:036][554]PIE: New page: PIE session: FirstPersonExampleMap (Aug 15, 2019, 9:41:10 AM)
+[2019.08.15-17.41.10:050][554]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.08.15-17.41.10:064][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013019s)
+[2019.08.15-17.41.10:064][554]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.08.15-17.41.10:065][554]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2019.08.15-17.41.10:065][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014256s)
+[2019.08.15-17.41.10:091][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.08.15-17.41.10:110][554]LogInit: XAudio2 using 'Headphones (Jib+Active Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.41.10:121][554]LogInit: FAudioDevice initialized.
+[2019.08.15-17.41.10:167][554]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.15-17.41.10:171][554]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.08.15-13.41.10
+[2019.08.15-17.41.10:171][554]LogWorld: Bringing up level for play took: 0.001826
+[2019.08.15-17.41.10:197][554]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 20 classes and 0 folders.
+[2019.08.15-17.41.10:198][554]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.108
+[2019.08.15-17.41.10:198][554]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.15-17.42.03:799][768]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.15-17.42.03:799][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.42.03:833][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.42.03:834][768]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.15-17.42.03:862][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.42.03:865][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.08.15-17.42.03:900][769]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.08.15-17.42.06:928][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (G_IcePillarStairs)
+[2019.08.15-17.42.16:033][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.42.29:322][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.43.43:050][537]LogEditorTransaction: Undo Translate Collision
+[2019.08.15-17.43.43:324][537]LogEditorTransaction: Undo Translate Collision
+[2019.08.15-17.43.43:609][537]LogEditorTransaction: Undo Translate Collision
+[2019.08.15-17.43.43:903][537]LogEditorTransaction: Undo Delete Collision
+[2019.08.15-17.43.45:516][538]LogEditorTransaction: Undo Translate Collision
+[2019.08.15-17.43.50:177][787]LogEditorTransaction: Undo Translate Collision
+[2019.08.15-17.43.53:835][976]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-17.43.53:871][976]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/G_IcePIllar27EB50E4405210E2CAFFC486D4A2A8D6.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/Geometry/Meshes/G_IcePIllar.uasset'
+[2019.08.15-17.43.56:397][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.43.56:481][124]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.43.56:494][124]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.15-17.43.56:494][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.43.56:494][124]PIE: New page: PIE session: FirstPersonExampleMap (Aug 15, 2019, 9:43:56 AM)
+[2019.08.15-17.43.56:494][124]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.08.15-17.43.56:505][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012222s)
+[2019.08.15-17.43.56:506][124]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.08.15-17.43.56:506][124]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2019.08.15-17.43.56:506][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013036s)
+[2019.08.15-17.43.56:533][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.08.15-17.43.56:548][124]LogInit: XAudio2 using 'Headphones (Jib+Active Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.43.56:559][124]LogInit: FAudioDevice initialized.
+[2019.08.15-17.43.56:587][124]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.15-17.43.56:589][124]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.08.15-13.43.56
+[2019.08.15-17.43.56:590][124]LogWorld: Bringing up level for play took: 0.001770
+[2019.08.15-17.43.56:603][124]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.487
+[2019.08.15-17.43.56:603][124]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.15-17.44.47:560][177]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.15-17.44.47:561][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.44.47:593][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.44.47:593][177]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.15-17.44.47:621][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.44.47:625][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.08.15-17.44.47:702][179]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.08.15-17.44.49:976][312]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-17.45.16:522][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.45.20:322][ 55]LogEditorTransaction: Undo Edit X Extent
+[2019.08.15-17.45.37:151][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.46.08:696][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.08.15-17.46.08:702][713]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.15-17.46.08:755][713]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/G_IcePIllarE0D4252E4BAD51750F86EE940D7C41F6.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/Geometry/Meshes/G_IcePIllar.uasset'
+[2019.08.15-17.46.10:175][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.46.10:258][798]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.15-17.46.10:270][798]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.15-17.46.10:270][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.15-17.46.10:270][798]PIE: New page: PIE session: FirstPersonExampleMap (Aug 15, 2019, 9:46:10 AM)
+[2019.08.15-17.46.10:270][798]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.08.15-17.46.10:284][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013846s)
+[2019.08.15-17.46.10:284][798]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.08.15-17.46.10:284][798]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2019.08.15-17.46.10:284][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014589s)
+[2019.08.15-17.46.10:309][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.08.15-17.46.10:324][798]LogInit: XAudio2 using 'Headphones (Jib+Active Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.15-17.46.10:334][798]LogInit: FAudioDevice initialized.
+[2019.08.15-17.46.10:366][798]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.15-17.46.10:368][798]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.08.15-13.46.10
+[2019.08.15-17.46.10:368][798]LogWorld: Bringing up level for play took: 0.001354
+[2019.08.15-17.46.10:381][798]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.71
+[2019.08.15-17.46.10:381][798]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.15-17.47.07:030][193]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.15-17.47.07:031][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.47.07:065][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.15-17.47.07:065][193]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.15-17.47.07:093][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.15-17.47.07:095][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.08.15-17.47.07:172][195]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.08.15-17.47.40:756][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.15-17.47.46:685][324]LogSlate: Window 'G_CoverUp' being destroyed
+[2019.08.15-17.47.46:689][324]LogSlate: Window 'G_CoverUp' being destroyed
+[2019.08.15-17.47.48:857][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
