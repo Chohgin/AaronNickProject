@@ -1586,3 +1586,289 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.19-17.50.31:150][468]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/PlayLevelE41E92F04403CDD8D830AFA2904A0B55.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/FirstPersonBP/Maps/PlayLevel.umap'
 [2019.08.19-17.50.31:177][468]LogFileHelpers: Saving map 'PlayLevel' took 0.214
 [2019.08.19-17.50.31:262][468]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/FirstPersonCharacter6B36D98342CB41C611D1C7945CF1DBDB.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.08.19-17.51.24:403][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-17.56.00:155][634]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-17.56.03:492][744]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-18.03.05:831][637]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.19-18.03.06:004][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.08.19-18.03.08:251][767]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-18.03.08:279][767]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.03.08:279][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-18.03.08:279][767]PIE: New page: PIE session: PlayLevel (Aug 19, 2019, 10:03:08 AM)
+[2019.08.19-18.03.08:279][767]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel
+[2019.08.19-18.03.08:290][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010374s)
+[2019.08.19-18.03.08:290][767]LogAIModule: Creating AISystem for world PlayLevel
+[2019.08.19-18.03.08:290][767]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2019.08.19-18.03.08:290][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/PlayLevel.PlayLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.011146s)
+[2019.08.19-18.03.08:322][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.08.19-18.03.08:336][767]LogInit: XAudio2 using 'Headphones (Jib+Active Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.19-18.03.08:345][767]LogInit: FAudioDevice initialized.
+[2019.08.19-18.03.08:379][767]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.19-18.03.08:381][767]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 60) at 2019.08.19-14.03.08
+[2019.08.19-18.03.08:381][767]LogWorld: Bringing up level for play took: 0.001703
+[2019.08.19-18.03.08:395][767]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel -0.605
+[2019.08.19-18.03.08:395][767]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.03.11:098][904]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel.PlayLevel:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:000F
+[2019.08.19-18.03.11:098][904]PIE: Error: Infinite loop detected. Blueprint:  FirstPersonCharacter Function:  Delay Call Stack:  Show
+[2019.08.19-18.03.11:099][904]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.03.11:099][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-18.03.11:141][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-18.03.11:141][904]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.03.11:174][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-18.03.11:179][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.08.19-18.03.11:187][904]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-18.03.11:294][905]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.08.19-18.04.14:845][656]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.19-18.04.14:855][656]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a FunctionalTest, therefore ' Target ' must have a connection.
+[2019.08.19-18.04.15:003][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.08.19-18.04.15:021][656]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [2534.49] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 175 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2019.08.19-18.06.45:594][579]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.19-18.06.45:760][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.08.19-18.06.47:779][695]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-18.06.47:807][695]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.06.47:807][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-18.06.47:807][695]PIE: New page: PIE session: PlayLevel (Aug 19, 2019, 10:06:47 AM)
+[2019.08.19-18.06.47:807][695]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel
+[2019.08.19-18.06.47:817][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009714s)
+[2019.08.19-18.06.47:817][695]LogAIModule: Creating AISystem for world PlayLevel
+[2019.08.19-18.06.47:818][695]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2019.08.19-18.06.47:818][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/PlayLevel.PlayLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.010409s)
+[2019.08.19-18.06.47:848][695]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.08.19-18.06.47:863][695]LogInit: XAudio2 using 'Headphones (Jib+Active Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.19-18.06.47:873][695]LogInit: FAudioDevice initialized.
+[2019.08.19-18.06.47:905][695]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.19-18.06.47:907][695]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 60) at 2019.08.19-14.06.47
+[2019.08.19-18.06.47:907][695]LogWorld: Bringing up level for play took: 0.001636
+[2019.08.19-18.06.47:921][695]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel 0.921
+[2019.08.19-18.06.47:921][695]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.07.00:667][455]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.07.00:667][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-18.07.00:712][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-18.07.00:712][455]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.07.00:746][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-18.07.00:750][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.08.19-18.07.00:831][456]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.08.19-18.07.01:861][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.07.32:790][287]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/FirstPersonCharacterC17A19C14055AEEAEEDC19B78132CAD3.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.08.19-18.07.33:167][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.07.34:467][387]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.19-18.07.34:628][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.08.19-18.07.35:585][439]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-18.07.35:613][439]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.07.35:613][439]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-18.07.35:613][439]PIE: New page: PIE session: PlayLevel (Aug 19, 2019, 10:07:35 AM)
+[2019.08.19-18.07.35:613][439]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel
+[2019.08.19-18.07.35:624][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010761s)
+[2019.08.19-18.07.35:625][439]LogAIModule: Creating AISystem for world PlayLevel
+[2019.08.19-18.07.35:625][439]LogPlayLevel: PIE: World Init took: (0.000514s)
+[2019.08.19-18.07.35:625][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/PlayLevel.PlayLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.011386s)
+[2019.08.19-18.07.35:660][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.08.19-18.07.35:674][439]LogInit: XAudio2 using 'Headphones (Jib+Active Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.19-18.07.35:683][439]LogInit: FAudioDevice initialized.
+[2019.08.19-18.07.35:713][439]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.19-18.07.35:715][439]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 60) at 2019.08.19-14.07.35
+[2019.08.19-18.07.35:715][439]LogWorld: Bringing up level for play took: 0.001696
+[2019.08.19-18.07.35:729][439]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel 0.729
+[2019.08.19-18.07.35:729][439]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.07.37:347][503]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel.PlayLevel:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:026B
+[2019.08.19-18.07.37:347][503]PIE: Error: Infinite loop detected. Blueprint:  FirstPersonCharacter Function:  Outputs Call Stack:  Show
+[2019.08.19-18.07.37:349][503]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.07.37:349][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-18.07.37:396][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-18.07.37:396][503]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.07.37:430][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-18.07.37:433][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.08.19-18.07.37:442][503]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-18.07.37:534][504]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.08.19-18.07.39:883][643]LogAssetEditorManager: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2019.08.19-18.09.06:311][717]LogSlate: Window 'Delete Variable' being destroyed
+[2019.08.19-18.09.06:744][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.09.11:850][ 34]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.19-18.09.12:029][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.08.19-18.09.12:561][ 61]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-18.09.12:592][ 61]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.09.12:592][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-18.09.12:592][ 61]PIE: New page: PIE session: PlayLevel (Aug 19, 2019, 10:09:12 AM)
+[2019.08.19-18.09.12:592][ 61]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel
+[2019.08.19-18.09.12:603][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010355s)
+[2019.08.19-18.09.12:603][ 61]LogAIModule: Creating AISystem for world PlayLevel
+[2019.08.19-18.09.12:603][ 61]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2019.08.19-18.09.12:603][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/PlayLevel.PlayLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.011020s)
+[2019.08.19-18.09.12:635][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.08.19-18.09.12:649][ 61]LogInit: XAudio2 using 'Headphones (Jib+Active Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.19-18.09.12:658][ 61]LogInit: FAudioDevice initialized.
+[2019.08.19-18.09.12:690][ 61]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.19-18.09.12:692][ 61]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 60) at 2019.08.19-14.09.12
+[2019.08.19-18.09.12:693][ 61]LogWorld: Bringing up level for play took: 0.001645
+[2019.08.19-18.09.12:705][ 61]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel -0.295
+[2019.08.19-18.09.12:705][ 61]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.09.27:701][955]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.09.27:701][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-18.09.27:744][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-18.09.27:744][955]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.09.27:779][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-18.09.27:782][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.08.19-18.09.27:862][956]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.08.19-18.09.30:624][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.10.12:666][578]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.19-18.10.12:831][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.08.19-18.11.06:902][792]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.19-18.11.07:066][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.08.19-18.11.08:113][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.08.19-18.11.08:153][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.08.19-18.11.08:335][848]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/PlayLevel7CD7ACEC48F52F6EA424718F2AC6BBF7.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/FirstPersonBP/Maps/PlayLevel.umap'
+[2019.08.19-18.11.08:363][848]LogFileHelpers: Saving map 'PlayLevel' took 0.238
+[2019.08.19-18.11.08:366][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorBlueprintResources/StandardMacros" FILE="../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" SILENT=true
+[2019.08.19-18.11.08:448][848]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/StandardMacrosBC562B5F4A892383D08EBE9A0B7AD5CA.tmp' to '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.11.08:448][848]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset', retrying in .5s...
+[2019.08.19-18.11.08:949][848]LogFileManager: Error: Error deleting file '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'.
+[2019.08.19-18.11.08:949][848]LogSavePackage: Error: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.11.14:264][848]LogSlate: Window 'Message' being destroyed
+[2019.08.19-18.11.14:386][848]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/FirstPersonCharacterC8FD88F549E30BD326D47D9B79E6D45A.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.08.19-18.11.14:395][848]EditorErrors: New page: Save Output
+[2019.08.19-18.11.14:395][848]EditorErrors: Warning: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.11.14:395][848]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-18.11.15:744][848]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.08.19-18.11.16:982][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.11.17:062][924]LogSlate: Window 'Message Log' being destroyed
+[2019.08.19-18.11.17:066][924]LogSlate: Window 'Message Log' being destroyed
+[2019.08.19-18.11.18:048][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.11.19:257][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.08.19-18.11.19:268][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorBlueprintResources/StandardMacros" FILE="../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" SILENT=true
+[2019.08.19-18.11.19:354][ 52]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/StandardMacros92CA487747595554189059912D8C8807.tmp' to '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.11.19:354][ 52]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset', retrying in .5s...
+[2019.08.19-18.11.19:855][ 52]LogFileManager: Error: Error deleting file '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'.
+[2019.08.19-18.11.19:855][ 52]LogSavePackage: Error: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.11.26:305][ 52]LogSlate: Window 'Message' being destroyed
+[2019.08.19-18.11.26:309][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorBlueprintResources/StandardMacros" FILE="../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" SILENT=true
+[2019.08.19-18.11.26:392][ 52]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/StandardMacros52A75DDF4DFACC6C073377AA5FB503EF.tmp' to '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.11.26:392][ 52]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset', retrying in .5s...
+[2019.08.19-18.11.26:893][ 52]LogFileManager: Error: Error deleting file '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'.
+[2019.08.19-18.11.26:893][ 52]LogSavePackage: Error: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.11.32:125][ 52]LogSlate: Window 'Message' being destroyed
+[2019.08.19-18.11.32:130][ 52]EditorErrors: New page: Save Output
+[2019.08.19-18.11.32:130][ 52]EditorErrors: Warning: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.11.32:130][ 52]EditorErrors: Warning: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.11.32:133][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-18.11.35:562][ 52]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.08.19-18.11.36:935][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.11.41:615][413]LogSlate: Window 'Message Log' being destroyed
+[2019.08.19-18.11.41:620][413]LogSlate: Window 'Message Log' being destroyed
+[2019.08.19-18.11.42:737][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.13.49:302][932]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/FirstPersonCharacter763D45464BE950FDB726BA8B9CAA93F2.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.08.19-18.13.51:841][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.13.51:906][ 88]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.19-18.13.52:073][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.08.19-18.13.53:074][143]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-18.13.53:104][143]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.13.53:104][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-18.13.53:104][143]PIE: New page: PIE session: PlayLevel (Aug 19, 2019, 10:13:53 AM)
+[2019.08.19-18.13.53:104][143]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel
+[2019.08.19-18.13.53:114][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010383s)
+[2019.08.19-18.13.53:115][143]LogAIModule: Creating AISystem for world PlayLevel
+[2019.08.19-18.13.53:115][143]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2019.08.19-18.13.53:115][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/PlayLevel.PlayLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.011086s)
+[2019.08.19-18.13.53:159][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.08.19-18.13.53:173][143]LogInit: XAudio2 using 'Headphones (Jib+Active Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.19-18.13.53:182][143]LogInit: FAudioDevice initialized.
+[2019.08.19-18.13.53:218][143]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.19-18.13.53:220][143]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 60) at 2019.08.19-14.13.53
+[2019.08.19-18.13.53:221][143]LogWorld: Bringing up level for play took: 0.001880
+[2019.08.19-18.13.53:235][143]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel 0.235
+[2019.08.19-18.13.53:235][143]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.14.05:348][865]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.14.05:348][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-18.14.05:395][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-18.14.05:395][865]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.14.05:430][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-18.14.05:434][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.08.19-18.14.05:517][866]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.08.19-18.14.07:086][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.14.22:077][832]LogEditorTransaction: Undo Move Node
+[2019.08.19-18.14.22:495][852]LogEditorTransaction: Undo Create Pin Link
+[2019.08.19-18.14.26:068][ 61]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.19-18.14.26:227][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.08.19-18.14.26:977][101]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-18.14.27:007][101]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.14.27:007][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-18.14.27:007][101]PIE: New page: PIE session: PlayLevel (Aug 19, 2019, 10:14:27 AM)
+[2019.08.19-18.14.27:007][101]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel
+[2019.08.19-18.14.27:016][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008691s)
+[2019.08.19-18.14.27:016][101]LogAIModule: Creating AISystem for world PlayLevel
+[2019.08.19-18.14.27:016][101]LogPlayLevel: PIE: World Init took: (0.000500s)
+[2019.08.19-18.14.27:016][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/PlayLevel.PlayLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.009321s)
+[2019.08.19-18.14.27:045][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.08.19-18.14.27:060][101]LogInit: XAudio2 using 'Headphones (Jib+Active Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.19-18.14.27:068][101]LogInit: FAudioDevice initialized.
+[2019.08.19-18.14.27:104][101]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.19-18.14.27:106][101]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 60) at 2019.08.19-14.14.27
+[2019.08.19-18.14.27:106][101]LogWorld: Bringing up level for play took: 0.001676
+[2019.08.19-18.14.27:120][101]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel 0.12
+[2019.08.19-18.14.27:120][101]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.14.29:092][215]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] -1
+[2019.08.19-18.14.30:459][297]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2019.08.19-18.14.30:642][308]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] -1
+[2019.08.19-18.14.31:409][354]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2019.08.19-18.14.31:859][381]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] -1
+[2019.08.19-18.14.32:276][406]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2019.08.19-18.14.32:659][429]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] -1
+[2019.08.19-18.14.33:460][477]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2019.08.19-18.14.33:927][505]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.14.33:927][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-18.14.33:972][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-18.14.33:972][505]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.14.34:005][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-18.14.34:009][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.08.19-18.14.34:090][506]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.08.19-18.14.35:270][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.14.44:039][101]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.19-18.14.44:215][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.08.19-18.14.44:902][137]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-18.14.44:932][137]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.14.44:932][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-18.14.44:932][137]PIE: New page: PIE session: PlayLevel (Aug 19, 2019, 10:14:44 AM)
+[2019.08.19-18.14.44:932][137]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel
+[2019.08.19-18.14.44:941][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008065s)
+[2019.08.19-18.14.44:941][137]LogAIModule: Creating AISystem for world PlayLevel
+[2019.08.19-18.14.44:941][137]LogPlayLevel: PIE: World Init took: (0.000516s)
+[2019.08.19-18.14.44:941][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/PlayLevel.PlayLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.008698s)
+[2019.08.19-18.14.44:972][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.08.19-18.14.44:986][137]LogInit: XAudio2 using 'Headphones (Jib+Active Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.19-18.14.44:994][137]LogInit: FAudioDevice initialized.
+[2019.08.19-18.14.45:025][137]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.19-18.14.45:027][137]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 60) at 2019.08.19-14.14.45
+[2019.08.19-18.14.45:027][137]LogWorld: Bringing up level for play took: 0.001900
+[2019.08.19-18.14.45:041][137]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel 0.041
+[2019.08.19-18.14.45:041][137]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.14.46:848][241]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.08.19-18.14.47:548][283]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.08.19-18.14.47:947][307]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.08.19-18.14.48:398][334]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.08.19-18.14.48:898][364]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.14.48:899][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-18.14.48:942][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-18.14.48:942][364]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.14.48:977][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-18.14.48:981][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.08.19-18.14.49:066][365]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.08.19-18.14.50:493][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.17.26:613][746]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.19-18.17.26:777][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.08.19-18.21.32:105][720]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.08.19-18.21.32:274][720]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/PlayLevel_Auto1B6D7C1BC47847C9E9C18F4BC34016B92.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Autosaves/Game/FirstPersonBP/Maps/PlayLevel_Auto1.umap'
+[2019.08.19-18.21.32:276][720]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/PlayLevel' took 0.209
+[2019.08.19-18.21.32:276][720]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.209
+[2019.08.19-18.21.32:279][720]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EditorBlueprintResources/StandardMacros] ([1] browsable assets)...
+[2019.08.19-18.21.32:279][720]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorBlueprintResources/StandardMacros]
+[2019.08.19-18.21.32:358][720]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/StandardMacros_Auto19240FB304D252E953CD864A40198D75B.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Autosaves/Engine/EditorBlueprintResources/StandardMacros_Auto1.uasset'
+[2019.08.19-18.21.32:359][720]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.08.19-18.21.32:368][720]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.08.19-18.21.32:369][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.08.19-18.21.32:446][720]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/FirstPersonCharacter_Auto1E29060F24D89CA6388C8CB86AA9320C5.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2019.08.19-18.21.32:447][720]LogFileHelpers: Auto-saving content packages took 0.169
+[2019.08.19-18.21.33:072][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.25.26:620][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
