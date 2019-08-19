@@ -1872,3 +1872,163 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.19-18.21.32:447][720]LogFileHelpers: Auto-saving content packages took 0.169
 [2019.08.19-18.21.33:072][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.08.19-18.25.26:620][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.27.08:078][899]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-18.28.18:507][ 95]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/FirstPersonCharacter6FF0EFC34176A4E0872C9993B7EA2B7B.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.08.19-18.28.19:240][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.28.19:288][141]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.19-18.28.19:468][141]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2019.08.19-18.29.48:134][350]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.19-18.29.48:305][350]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.08.19-18.31.32:806][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.08.19-18.31.32:980][307]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/PlayLevel_Auto253C9080B4BE9FD7C0F484CA47E775352.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Autosaves/Game/FirstPersonBP/Maps/PlayLevel_Auto2.umap'
+[2019.08.19-18.31.32:983][307]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/PlayLevel' took 0.206
+[2019.08.19-18.31.32:983][307]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.206
+[2019.08.19-18.31.32:987][307]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.08.19-18.31.33:004][307]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.08.19-18.31.33:004][307]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.08.19-18.31.33:085][307]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/FirstPersonCharacter_Auto2E000965C4A1A3A8940E48DBAFA615962.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset'
+[2019.08.19-18.31.33:086][307]LogFileHelpers: Auto-saving content packages took 0.101
+[2019.08.19-18.35.54:245][744]LogAssetEditorManager: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2019.08.19-18.36.11:388][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorBlueprintResources/StandardMacros" FILE="../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" SILENT=true
+[2019.08.19-18.36.11:470][755]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/StandardMacros4D0E53754CD12B8E52DD80BB75A85EB3.tmp' to '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.36.11:470][755]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset', retrying in .5s...
+[2019.08.19-18.36.11:971][755]LogFileManager: Error: Error deleting file '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'.
+[2019.08.19-18.36.11:971][755]LogSavePackage: Error: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.36.16:603][755]LogSlate: Window 'Message' being destroyed
+[2019.08.19-18.36.16:610][755]EditorErrors: New page: Save Output
+[2019.08.19-18.36.16:610][755]EditorErrors: Warning: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.36.16:613][755]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-18.36.22:742][122]LogEditorTransaction: Undo Delete current selection
+[2019.08.19-18.36.34:865][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorBlueprintResources/StandardMacros" FILE="../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" SILENT=true
+[2019.08.19-18.36.34:939][847]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/StandardMacros40CB7EFC42DF2D5B788474B73C365D89.tmp' to '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.36.34:939][847]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset', retrying in .5s...
+[2019.08.19-18.36.35:440][847]LogFileManager: Error: Error deleting file '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'.
+[2019.08.19-18.36.35:440][847]LogSavePackage: Error: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.36.41:669][847]LogSlate: Window 'Message' being destroyed
+[2019.08.19-18.36.41:676][847]EditorErrors: New page: Save Output
+[2019.08.19-18.36.41:676][847]EditorErrors: Warning: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.36.41:677][847]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-18.36.44:640][847]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.08.19-18.36.47:908][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.36.50:454][196]LogSlate: Window 'Message Log' being destroyed
+[2019.08.19-18.36.50:459][196]LogSlate: Window 'Message Log' being destroyed
+[2019.08.19-18.36.51:574][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.36.52:299][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.08.19-18.36.52:345][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.08.19-18.36.52:515][301]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/PlayLevel20B61C1246C294F56A681C9D3844EEA5.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/FirstPersonBP/Maps/PlayLevel.umap'
+[2019.08.19-18.36.52:547][301]LogFileHelpers: Saving map 'PlayLevel' took 0.230
+[2019.08.19-18.36.52:549][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorBlueprintResources/StandardMacros" FILE="../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" SILENT=true
+[2019.08.19-18.36.52:625][301]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/StandardMacros47FA31254C07ED651FFDD9829AF6B46E.tmp' to '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.36.52:625][301]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset', retrying in .5s...
+[2019.08.19-18.36.53:125][301]LogFileManager: Error: Error deleting file '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'.
+[2019.08.19-18.36.53:125][301]LogSavePackage: Error: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.36.54:404][301]LogSlate: Window 'Message' being destroyed
+[2019.08.19-18.36.54:409][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorBlueprintResources/StandardMacros" FILE="../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" SILENT=true
+[2019.08.19-18.36.54:489][301]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/StandardMacrosA7BF62C946B0B68B296DF688F9ECE6F4.tmp' to '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.36.54:489][301]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset', retrying in .5s...
+[2019.08.19-18.36.54:990][301]LogFileManager: Error: Error deleting file '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'.
+[2019.08.19-18.36.54:990][301]LogSavePackage: Error: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.36.55:646][301]LogSlate: Window 'Message' being destroyed
+[2019.08.19-18.36.55:651][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorBlueprintResources/StandardMacros" FILE="../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" SILENT=true
+[2019.08.19-18.36.55:729][301]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/StandardMacros3AE49B514A06A0CE88C3209013461660.tmp' to '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.36.55:729][301]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset', retrying in .5s...
+[2019.08.19-18.36.56:230][301]LogFileManager: Error: Error deleting file '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'.
+[2019.08.19-18.36.56:230][301]LogSavePackage: Error: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.36.56:594][301]LogSlate: Window 'Message' being destroyed
+[2019.08.19-18.36.56:599][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorBlueprintResources/StandardMacros" FILE="../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" SILENT=true
+[2019.08.19-18.36.56:679][301]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/StandardMacros5C4BCD0744CD75CEF0CC08B3F0EB6A61.tmp' to '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.36.56:679][301]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset', retrying in .5s...
+[2019.08.19-18.36.57:180][301]LogFileManager: Error: Error deleting file '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'.
+[2019.08.19-18.36.57:180][301]LogSavePackage: Error: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.36.57:565][301]LogSlate: Window 'Message' being destroyed
+[2019.08.19-18.36.57:570][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorBlueprintResources/StandardMacros" FILE="../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" SILENT=true
+[2019.08.19-18.36.57:648][301]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/StandardMacrosBEC9538C4FD1534C371CDD9D8685F7F5.tmp' to '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.36.57:648][301]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset', retrying in .5s...
+[2019.08.19-18.36.58:149][301]LogFileManager: Error: Error deleting file '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'.
+[2019.08.19-18.36.58:149][301]LogSavePackage: Error: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.36.58:550][301]LogSlate: Window 'Message' being destroyed
+[2019.08.19-18.36.58:555][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorBlueprintResources/StandardMacros" FILE="../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" SILENT=true
+[2019.08.19-18.36.58:640][301]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/StandardMacros849CDAA04805B6E193051599FA5DFE4F.tmp' to '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.36.58:640][301]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset', retrying in .5s...
+[2019.08.19-18.36.59:140][301]LogFileManager: Error: Error deleting file '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'.
+[2019.08.19-18.36.59:140][301]LogSavePackage: Error: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.37.02:223][301]LogSlate: Window 'Message' being destroyed
+[2019.08.19-18.37.02:340][301]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/FirstPersonCharacter68786787452D78B7BD42E39F6740E4EE.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.08.19-18.37.02:351][301]EditorErrors: New page: Save Output
+[2019.08.19-18.37.02:351][301]EditorErrors: Warning: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.37.02:351][301]EditorErrors: Warning: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.37.02:351][301]EditorErrors: Warning: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.37.02:351][301]EditorErrors: Warning: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.37.02:351][301]EditorErrors: Warning: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.37.02:351][301]EditorErrors: Warning: Error saving '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2019.08.19-18.37.02:353][301]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-18.37.08:597][301]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.08.19-18.37.10:129][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.37.10:227][392]LogSlate: Window 'Message Log' being destroyed
+[2019.08.19-18.37.10:232][392]LogSlate: Window 'Message Log' being destroyed
+[2019.08.19-18.37.11:762][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.37.43:611][180]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.19-18.37.43:782][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.08.19-18.37.48:496][457]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-18.37.48:534][457]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.37.48:534][457]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.19-18.37.48:558][457]LogPlayLevel: [PlayLevel] Compiling StandardMacros before play...
+[2019.08.19-18.37.48:562][457]LogPlayLevel: [PlayLevel]   Compiling BP_SceneNode as a dependent...
+[2019.08.19-18.37.48:564][457]LogPlayLevel: [PlayLevel]   Compiling BP_SceneRoot as a dependent...
+[2019.08.19-18.37.48:564][457]LogPlayLevel: [PlayLevel]   Compiling BP_Sky_Sphere as a dependent...
+[2019.08.19-18.37.48:564][457]LogPlayLevel: [PlayLevel]   Compiling FBXImporterUtils as a dependent...
+[2019.08.19-18.37.48:564][457]LogPlayLevel: [PlayLevel]   Compiling FirstPerson_AnimBP as a dependent...
+[2019.08.19-18.37.48:564][457]LogPlayLevel: [PlayLevel]   Compiling RenderToTextureFunctionLibrary as a dependent...
+[2019.08.19-18.37.48:564][457]LogPlayLevel: [PlayLevel]   Compiling RenderToTextureMacros as a dependent...
+[2019.08.19-18.37.48:565][457]LogPlayLevel: [PlayLevel]   Compiling BP_Switch as a dependent...
+[2019.08.19-18.37.48:565][457]LogPlayLevel: [PlayLevel]   Compiling FirstPersonCharacter as a dependent...
+[2019.08.19-18.37.48:832][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.08.19-18.37.48:832][457]LogPlayLevel: PlayLevel: Blueprint regeneration took 298 ms (10 blueprints)
+[2019.08.19-18.37.48:832][457]PIE: New page: PIE session: PlayLevel (Aug 19, 2019, 10:37:48 AM)
+[2019.08.19-18.37.48:833][457]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel
+[2019.08.19-18.37.48:843][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010533s)
+[2019.08.19-18.37.48:844][457]LogAIModule: Creating AISystem for world PlayLevel
+[2019.08.19-18.37.48:844][457]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2019.08.19-18.37.48:844][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/PlayLevel.PlayLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel.PlayLevel (0.011521s)
+[2019.08.19-18.37.48:875][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.08.19-18.37.48:889][457]LogInit: XAudio2 using 'Headphones (Jib+Active Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.19-18.37.48:898][457]LogInit: FAudioDevice initialized.
+[2019.08.19-18.37.48:933][457]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.19-18.37.48:935][457]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 60) at 2019.08.19-14.37.48
+[2019.08.19-18.37.48:936][457]LogWorld: Bringing up level for play took: 0.001721
+[2019.08.19-18.37.48:949][457]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_PlayLevel -0.051
+[2019.08.19-18.37.48:949][457]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.37.53:328][664]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2019.08.19-18.37.53:862][696]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2019.08.19-18.37.54:479][733]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.37.54:480][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-18.37.54:506][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.19-18.37.54:507][733]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.08.19-18.37.54:536][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.19-18.37.54:539][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.08.19-18.37.54:589][735]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.08.19-18.37.57:148][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.39.08:444][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.39.10:491][806]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.08.19-18.39.13:993][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-18.39.31:727][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.39.33:989][ 84]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2019.08.19-18.39.46:281][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.39.57:191][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.39.59:170][590]Cmd: DELETE
+[2019.08.19-18.39.59:170][590]Cmd: ACTOR DELETE
+[2019.08.19-18.39.59:172][590]LogEditorActor: Deleted Actor: Brush
+[2019.08.19-18.39.59:205][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.08.19-18.39.59:207][590]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2019.08.19-18.40.15:720][442]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-18.41.22:430][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.41.37:521][960]LogBlueprintActionDatabase: Requesting refresh due to module change: PortalProxies (loaded)
+[2019.08.19-18.46.47:112][781]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.08.19-18.46.47:116][781]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.08.19-18.47.06:995][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-18.47.45:822][752]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2019.08.19-18.47.45:822][752]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/Developers/Chohgin/Collections/' because it could not be accessed. Aborting watch request...
+[2019.08.19-18.47.45:862][754]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2019.08.19-18.48.37:341][831]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.08.19-18.48.37:524][831]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/PlayLevel9BCC081C4D7E96A7A9269E82CC341C98.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/FirstPersonBP/Maps/PlayLevel.umap'
+[2019.08.19-18.48.37:579][831]LogSavePackage: Moving '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Saved/PlayLevel_BuiltDataBE86674A4E3ACF88C17FCC84E9DF82D6.tmp' to '../../../../../../Users/Chohgin/Documents/Unreal Projects/2019/AaronNickProject/ProjectDelta/Content/FirstPersonBP/Maps/PlayLevel_BuiltData.uasset'
